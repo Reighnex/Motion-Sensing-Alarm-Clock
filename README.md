@@ -7,6 +7,7 @@
 DFRobot_DHT11  
 DS1302  
 LiquidCrystal  
+
 - **Pins**  
 LCD - LiquidCrystal lcd(44, 45, 46, 47, 48, 49);  
 RTC - 2(CLK), 3(DAT), 4(RST)  
