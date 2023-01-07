@@ -1,4 +1,4 @@
-# Motion_Sensing_Alarm_Clock
+# Motion-Sensing-Alarm-Clock
 
 > - Lecture : ADVENTURE DESIGN - team project  
 > - Project info : Arduino motion sensing alarm clock
